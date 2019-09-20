@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sawyer's Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/Sawyersudit/2020DigitalMediaPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
