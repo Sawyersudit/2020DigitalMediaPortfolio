@@ -2,6 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" 
 }
 .homePage {
 	background: #222222;
@@ -48,13 +49,14 @@ body {
 
 a:link {
      color: #2E52B3;
+	text-decoration: none;
 }
 a:visited {
      color: #2E52B3;
 }
 a:hover, 
 a:active {
-	color: #D8282B
+	color: #0000000
 }
 a:focus { 
      text-decoration:Bold;
